@@ -1,0 +1,11 @@
+prompt: a bird
+a_prompt: 
+n_prompt: 
+num_samples: 3
+image_resolution: 512
+sample_steps: 30
+scale: 9
+seed: 1216380260
+eta: 0.0
+kernel_size: 31
+sigmaX: 10

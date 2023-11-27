@@ -1,0 +1,11 @@
+prompt: a women standing facing a sci-fi post apocalyptic world
+a_prompt: best quality, realistic, 4k, highly detailed, smooth, natural
+n_prompt: bad quality, cartoonish, blurry
+num_samples: 5
+image_resolution: 512
+sample_steps: 30
+scale: 9
+seed: 1181241942
+eta: 0.0
+kernel_size: 17
+sigmaX: 10

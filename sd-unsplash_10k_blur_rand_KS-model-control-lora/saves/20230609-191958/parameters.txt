@@ -1,0 +1,11 @@
+prompt: an old room
+a_prompt: a high-quality, detailed, and professional image
+n_prompt: 
+num_samples: 3
+image_resolution: 512
+sample_steps: 30
+scale: 9
+seed: 1346917866
+eta: 0.0
+kernel_size: 61
+sigmaX: 10

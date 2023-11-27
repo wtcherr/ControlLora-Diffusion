@@ -1,0 +1,11 @@
+prompt: man with blonde hair and beard in a blue shirt
+a_prompt: a high-quality, detailed, and professional image
+n_prompt: 
+num_samples: 5
+image_resolution: 512
+sample_steps: 30
+scale: 9
+seed: 1181241942
+eta: 0.0
+kernel_size: 17
+sigmaX: 10

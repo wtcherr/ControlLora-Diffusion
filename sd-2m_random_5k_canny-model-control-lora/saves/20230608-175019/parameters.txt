@@ -1,0 +1,11 @@
+prompt: a modern house in the field under the night sky
+a_prompt: a high-quality, detailed, and professional image
+n_prompt: longbody, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality
+num_samples: 5
+image_resolution: 512
+sample_steps: 30
+scale: 9
+seed: 1181241942
+eta: 0.0
+low_threshold: 5
+high_threshold: 140

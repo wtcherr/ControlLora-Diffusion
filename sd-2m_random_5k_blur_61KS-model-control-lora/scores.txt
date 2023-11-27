@@ -1,0 +1,3 @@
+FID score: 171.68266153535376
+Inception score mean: 3.996697461690566
+Inception score std: 0.0
